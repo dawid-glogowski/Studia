@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+    <dane_osobowe>
+        <imie typ="pierwsze">Jan</imie>
+        <imie typ="drugie">Marek</imie>
+        <nazwisko>Kowlaski</nazwisko>
+        <email>jan.kowalski@wp.pl</email>
+        <adres>
+            <ulica>Newelska 6</ulica>
+            <miasto>Warszawa</miasto>
+            <kod_pocztowy>90-132</kod_pocztowy>
+        </adres>
+    </dane_osobowe>
+    <wyksztalcenie>
+        <szkola>
+            <nazwa>WIT</nazwa>
+            <kierunek>Infotmatyka</kierunek>
+            <specjalizajca>Chmura Obliczeniowa</specjalizajca>
+        </szkola>
+    </wyksztalcenie>
+    <doswiadczenie_zawodowe>
+        <firma>firma_xyz</firma>
+        <stanowsko>technik</stanowsko>
+        <od>01.01.2000</od>
+        <od>03.07.2007</od>
+    </doswiadczenie_zawodowe>
+    <jezyki>
+        <jezyk typ="pierwszy">angielski B2</jezyk>
+        <jezyk typ="drugi">niemiecki C1</jezyk>
+    </jezyki>
+</cv>
